@@ -1,21 +1,21 @@
 Questão 
-1: C — Utilizar recursos de computação em nuvem que possam ser provisionados conforme a demanda.Questão 
-2: A — Software como serviço, ou SaaS. (A equipe usa funcionalidades prontas via navegador sem gerenciar nada abaixo).Questão 
-3: E — IaaS, pois fornece infraestrutura virtual para a empresa administrar. (A empresa quer controle sobre o SO e servidor web).Questão 
-4: B — PaaS, pois oferece uma plataforma gerenciada para a aplicação. (A equipe cuida apenas do código; o provedor cuida do SO e ambiente).Questão 
-5: D — Nuvem híbrida, pela combinação de recursos privados e públicos.Questão 
-6: A — Nuvem privada. (Destinada exclusivamente a uma única organização).Questão 
-7: C — O acesso ao serviço remoto depende de conectividade; a continuidade precisa ser planejada.Questão 
-8: E — Acompanhar a utilização dos recursos e as regras de cobrança do serviço contratado.Questão 
-9: B — Virtualização por meio de um hypervisor e máquinas virtuais.Questão 
-10: D — A máquina virtual possui seu sistema operacional convidado, enquanto contêineres compartilham o kernel do hospedeiro.Questão 
-11: A — A imagem serve de base para criar uma ou mais instâncias em execução, chamadas contêineres.Questão 
-12: C — Usar uma verificação dos contêineres em execução, como docker ps.Questão 
-13: E — -p 8090:80, porque a porta do ambiente vem antes da porta interna. (Sintaxe: -p porta_hospedeiro:porta_container).Questão 
-14: B — Executar curl http://localhost:8090 e examinar a resposta.Questão 
-15: D — Parar o contêiner e depois removê-lo. (docker stop seguido de docker rm).Questão 
-16: A — Executar as aplicações em contêineres com as respectivas dependências.Questão 
-17: C — Docker executa contêineres, que podem integrar uma solução em nuvem, mas seu uso isolado não define o modelo de implantação.Questão 
+1: C — Utilizar recursos de computação em nuvem que possam ser provisionados conforme a demanda.
+2: A — Software como serviço, ou SaaS. (A equipe usa funcionalidades prontas via navegador sem gerenciar nada abaixo).
+3: E — IaaS, pois fornece infraestrutura virtual para a empresa administrar. (A empresa quer controle sobre o SO e servidor web).
+4: B — PaaS, pois oferece uma plataforma gerenciada para a aplicação. (A equipe cuida apenas do código; o provedor cuida do SO e ambiente).
+5: D — Nuvem híbrida, pela combinação de recursos privados e públicos.
+6: A — Nuvem privada. (Destinada exclusivamente a uma única organização).
+7: C — O acesso ao serviço remoto depende de conectividade; a continuidade precisa ser planejada.
+8: E — Acompanhar a utilização dos recursos e as regras de cobrança do serviço contratado.
+9: B — Virtualização por meio de um hypervisor e máquinas virtuais.
+10: D — A máquina virtual possui seu sistema operacional convidado, enquanto contêineres compartilham o kernel do hospedeiro.
+11: A — A imagem serve de base para criar uma ou mais instâncias em execução, chamadas contêineres.
+12: C — Usar uma verificação dos contêineres em execução, como docker ps.
+13: E — -p 8090:80, porque a porta do ambiente vem antes da porta interna. (Sintaxe: -p porta_hospedeiro:porta_container).
+14: B — Executar curl http://localhost:8090 e examinar a resposta.
+15: D — Parar o contêiner e depois removê-lo. (docker stop seguido de docker rm).
+16: A — Executar as aplicações em contêineres com as respectivas dependências.
+17: C — Docker executa contêineres, que podem integrar uma solução em nuvem, mas seu uso isolado não define o modelo de implantação.
 18: E — Utilizar uma máquina virtual com o sistema operacional convidado necessário.
 
 19: IaaS, o provedor cuida de toda a parte física como hardware, rede e hipervisor. Enquanto a nossa equipe fica responsável por gerenciar o sistema operacional, softwares e o código da aplicação.
